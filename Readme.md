@@ -9,6 +9,10 @@ Python==3.11
 - pandas
 - streamlit_calendar
 
+1. git clone https://github.com/Tatsu821/Task_Manager_App.git
+2. streamlit run app.py
+
+
 ## Main function
 以下の4画面の遷移をst.sidebar.selectboxによって実装
 ユーザは各画面でタスクの登録、閲覧、編集、削除が可能
